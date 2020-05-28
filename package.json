@@ -2,7 +2,7 @@
 "name": "com.centurygame.xlua",
 "displayName": "CenturyGame-XLua",
 "description":	"Xlua with lua-protobuf",
-"version":	"1.0.1",
+"version":	"1.0.2",
 "unity":	"2018.4",
 "license":	"",
 "dependencies":	{}
